@@ -1,50 +1,41 @@
-# Hi, I'm King Mbachu 👋  
+# Hi, I'm King Mbachu  
 
 📍 Dublin, Ireland  
-📧 [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin) | [GitHub](https://github.com/kingmbachu)  
+📧 [kingmbachu8@gmail.com](mailto:kingmbachu8@gmail.com) | [LinkedIn](https://ie.linkedin.com/in/kingmbachu) | [GitHub](https://github.com/kingmbachu)  
 
 ---
 
-## 🎓 Education  
-**University College Dublin** – BSc Computer Science (2024–2028)  
-Relevant Modules: Operating Systems, Data Structures, Algorithms, Object-Oriented Programming  
+## 👨‍💻 About Me  
+I'm a Computer Science student at **University College Dublin** (Class of 2028), passionate about building efficient software and learning how things work under the hood.  
+Currently, I'm exploring **systems programming, algorithms, and data structures**, with a focus on writing clean and optimised C code.  
 
 ---
 
-## 💼 Experience  
-**Real Estate Agent – KR Managements** (Jan 2024 – Present) | Dublin, Ireland  
-- Represented 20+ clients in renting properties, guiding them through the full process.  
-- Designed marketing strategies that increased tenant inquiries by 30%+.  
-- Ensured properties were inspection-ready, resolving 100% of issues before viewings.  
-- Achieved over 90% client satisfaction through professional communication.  
+## 🚀 Projects  
 
----
-
-## 🛠️ Projects  
-
-### [CLI Gantt Chart Generator](https://github.com/kingmbachu/CLI-Gantt-Chart) | C  
-- Built a **command-line Gantt chart generator** to visualize project timelines.  
-- Implemented data structures with dynamic memory allocation to manage tasks, durations, and dependencies.  
-- Designed sorting and display logic for clear tracking in the terminal.  
-- Strengthened problem-solving skills and deepened knowledge of C programming.  
+### [CLI Gantt Chart Generator](https://github.com/kingmbachu/CLI-Gantt-Chart-Generator) | C  
+A terminal-based Gantt chart tool to visualise project timelines.  
+- Dynamic memory allocation for flexible task management  
+- Sorting and display logic for clear terminal output  
+- Strengthened my problem-solving skills in C  
 
 ### [CLI Music Organiser](https://github.com/kingmbachu/CLI-Music-Organiser) | C  
-- Developed a **command-line music organiser** using **QuickSort** for efficient alphabetical sorting.  
-- Implemented a modified **Fisher–Yates shuffle** with anti-repeat constraints.  
-- Optimized memory usage and logic flow for performance.  
-- Improved algorithmic thinking and applied standard library functions effectively.  
+A command-line music organiser with sorting and shuffling features.  
+- **QuickSort** for alphabetical ordering  
+- Modified **Fisher–Yates shuffle** with anti-repeat rules  
+- Focused on performance and memory optimisation  
 
 ---
 
-## 🔧 Skills  
+## 🛠️ Tech Stack  
 
 **Languages:** C, Python, Java, SQL, HTML, CSS, Bash, Racket  
-**Frameworks & Tools:** MySQL, Matplotlib, Numpy, Pandas  
-**Developer Tools:** Git, Data Structures & Algorithms  
+**Libraries & Tools:** MySQL, Pandas, NumPy, Matplotlib  
+**Other:** Git, Algorithms & Data Structures  
 
 ---
 
-## 📷 Interests  
-Cooking | Photography | Videography | Content Creation  
+## 🌱 Beyond Coding  
+When I’m not programming, you’ll find me cooking, creating content, or experimenting with photography and videography.  
 
 ---
