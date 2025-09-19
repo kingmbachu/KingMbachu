@@ -6,8 +6,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I'm a Computer Science student at **University College Dublin** (Class of 2028), passionate about building efficient software and learning how things work under the hood.  
-Currently, I'm exploring **systems programming, algorithms, and data structures**, with a focus on writing clean and optimised C code.  
+I'm a Computer Science student at **University College Dublin** (Class of 2028), passionate about building efficient software and learning how things work under the hood. Currently, I'm exploring **systems programming, algorithms, and data structures**, with a focus on writing clean and optimised C code.  
 
 ---
 
