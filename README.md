@@ -31,7 +31,7 @@ A command-line music organiser with sorting and shuffling features.
 
 **Languages:** C, Python, Java, SQL, HTML, CSS, Bash, Racket  
 **Libraries & Tools:** MySQL, Pandas, NumPy, Matplotlib  
-**Other:** Git, Algorithms & Data Structures  
+**Other:** Git, Data Structures &  Algorithms 
 
 ---
 
