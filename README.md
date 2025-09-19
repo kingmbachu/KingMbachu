@@ -1,7 +1,7 @@
 # Hi, I'm King Mbachu  
 
 📍 Dublin, Ireland  
-📧 [kingmbachu8@gmail.com](mailto:kingmbachu8@gmail.com) | [LinkedIn](https://ie.linkedin.com/in/kingmbachu) | [GitHub](https://github.com/kingmbachu)  
+📧 [Email](mailto:kingmbachu8@gmail.com) | [LinkedIn](https://ie.linkedin.com/in/kingmbachu) | [GitHub](https://github.com/kingmbachu)  
 
 ---
 
