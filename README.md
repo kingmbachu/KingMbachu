@@ -12,17 +12,30 @@ I'm a Computer Science student at **University College Dublin** (Class of 2028),
 
 ## 🚀 Projects  
 
-### [CLI Gantt Chart Generator](https://github.com/kingmbachu/CLI-Gantt-Chart-Generator) | C  
-A terminal-based Gantt chart tool to visualise project timelines.  
-- Dynamic memory allocation for flexible task management  
-- Sorting and display logic for clear terminal output  
-- Strengthened my problem-solving skills in C  
+### [Containerised Health Monitoring Service](https://github.com/yourusername/repo) | Python, Docker, Kubernetes  
+A lightweight backend microservice exposing RESTful health-check endpoints for observability and service monitoring.  
+- Built health, readiness, metrics, and failure simulation endpoints using Python  
+- Containerised the application with Docker and orchestrated deployments using Kubernetes (Minikube)  
+- Configured Kubernetes Deployments and Services for lifecycle management and fault tolerance  
+- Strengthened my understanding of distributed systems, infrastructure abstraction, and backend reliability  
 
-### [CLI Music Organiser](https://github.com/kingmbachu/CLI-Music-Organiser) | C  
-A command-line music organiser with sorting and shuffling features.  
-- **QuickSort** for alphabetical ordering  
-- Modified **Fisher–Yates shuffle** with anti-repeat rules  
-- Focused on performance and memory optimisation  
+---
+
+### [Quax Strategy Board Game](https://github.com/kingmbachu/[repo](https://github.com/zudiie/COMP20050-SEP2-2025-26-30.git)) | Java  
+A fully interactive strategy board game developed in an agile team environment across multiple software engineering sprints.  
+- Contributed to GUI development, move validation, game-state management, and gameplay interaction systems  
+- Applied object-oriented programming principles to build modular and maintainable components  
+- Worked within an agile workflow involving sprint planning, iterative delivery, testing, and Git-based collaboration  
+- Helped implement core gameplay mechanics including turn handling, win detection, and player feedback systems  
+
+---
+
+### [CLI Gantt Chart Generator](https://github.com/kingmbachu/CLI-Gantt-Chart-Generator) | C  
+A terminal-based project scheduling tool for visualising task timelines and dependencies.  
+- Used dynamic memory allocation for flexible task and dependency management  
+- Implemented sorting and dependency-resolution logic for deterministic scheduling behaviour  
+- Focused on memory safety, modular design, and efficient CLI interaction  
+- Strengthened low-level systems thinking and algorithmic problem-solving in C  
 
 ---
 
