@@ -29,6 +29,12 @@ A fully interactive strategy board game developed in an agile team environment a
 - Helped implement core gameplay mechanics including turn handling, win detection, and player feedback systems  
 
 ---
+### [CareFlowAI | ServiceNow, JavaScript, REST APIs, Flow Designer](https://github.com/KKS-Health-Solutions/CareFlow-AI.git)
+An AI-assisted patient discharge workflow platform built during a ServiceNow hackathon to improve communication, task tracking, and coordination across hospital discharge processes.
+- Built Scripted REST APIs to support CRUD operations for discharge records, clinical summaries, tasks, and communication logs
+- Designed backend ServiceNow tables and data schemas to structure patient discharge information and support reliable data flow across the application
+- Used Flow Designer to automate key discharge workflows, including task creation, status updates, and communication between different parts of the system
+- Collaborated in a hackathon team to design and deliver the prototype, contributing primarily to the backend architecture, API development, and workflow automation
 
 ### [CLI Gantt Chart Generator](https://github.com/kingmbachu/CLI-Gantt-Chart-Generator) | C  
 A terminal-based project scheduling tool for visualising task timelines and dependencies.  
