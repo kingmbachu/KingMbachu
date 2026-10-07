@@ -57,6 +57,10 @@ A terminal-based project scheduling tool for visualising task timelines and depe
 **Other:** Git, Data Structures &  Algorithms 
 
 ---
+## 🔗 Certifications
+
+- AWS Cloud Practitioner 
+---
 
 ## 🌱 Beyond Coding  
 When I’m not programming, you’ll find me cooking, creating content, or experimenting with photography and videography.  
