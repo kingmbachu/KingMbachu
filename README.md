@@ -76,14 +76,6 @@ A terminal-based project scheduling tool for visualising task timelines and depe
 - Strengthened low-level systems thinking and algorithmic problem-solving in C  
 
 ---
-
-## 🛠️ Tech Stack  
-
-**Languages:** C, Python, Java, SQL, HTML, CSS, Bash, Racket  
-**Libraries & Tools:** MySQL, Pandas, NumPy, Matplotlib  
-**Other:** Git, Data Structures &  Algorithms 
-
----
 ## 🔗 Certifications
 
 - AWS Cloud Practitioner 
