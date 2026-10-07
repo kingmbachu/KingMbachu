@@ -21,7 +21,7 @@ A lightweight backend microservice exposing RESTful health-check endpoints for o
 
 ---
 
-### [Quax Strategy Board Game](https://github.com/kingmbachu/[repo](https://github.com/zudiie/COMP20050-SEP2-2025-26-30.git)) | Java  
+### [Quax Strategy Board Game](https://github.com/zudiie/quax.git) | Java  
 A fully interactive strategy board game developed in an agile team environment across multiple software engineering sprints.  
 - Contributed to GUI development, move validation, game-state management, and gameplay interaction systems  
 - Applied object-oriented programming principles to build modular and maintainable components  
