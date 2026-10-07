@@ -12,6 +12,11 @@ I'm a Computer Science student at **University College Dublin** (Class of 2028),
 
 ## 🚀 Projects  
 
+
+- **Data Structures and Algorithms Practice**
+  - [Practicing Data Structures and Algorithms](https://github.com/kingmbachu/neetcode-submissions.git)
+
+
 ### [Containerised Health Monitoring Service](https://github.com/kingmbachu/health-monitoring.git) | Python, Docker, Kubernetes  
 A lightweight backend microservice exposing RESTful health-check endpoints for observability and service monitoring.  
 - Built health, readiness, metrics, and failure simulation endpoints using Python  
