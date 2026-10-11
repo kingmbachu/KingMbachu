@@ -43,6 +43,15 @@ I'm a Computer Science student at **University College Dublin** (Class of 2028),
 - **Data Structures and Algorithms Practice**
   - [Practicing Data Structures and Algorithms](https://github.com/kingmbachu/neetcode-submissions.git)
 
+### [KerbStop — AI-Powered EV Charging Marketplace](https://github.com/KerbStop/KerbStop.git) 
+A full-stack EV charging marketplace built during HackUCD, connecting EV drivers with homeowners and businesses offering unused charging points to make EV charging more accessible, affordable and sustainable.
+
+- Built an interactive charger discovery and booking experience using Google Maps API, with Stripe Connect and Checkout integration for payments.
+- Integrated AI-powered features through OpenRouter, including electricity bill analysis, smart pricing suggestions, natural-language charger search and availability scheduling.
+- Developed a marketplace connecting frontend interfaces with backend REST APIs for charger listings, bookings and charging sessions.
+
+**Tech Stack:** JavaScript, REST APIs, Stripe, Google Maps API, OpenRouter
+---
 
 ### [Containerised Health Monitoring Service](https://github.com/kingmbachu/health-monitoring.git) | Python, Docker, Kubernetes  
 A lightweight backend microservice exposing RESTful health-check endpoints for observability and service monitoring.  
