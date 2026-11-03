@@ -43,6 +43,15 @@ I'm a Computer Science student at **University College Dublin** (Class of 2028),
 - **Data Structures and Algorithms Practice**
   - [Practicing Data Structures and Algorithms](https://github.com/kingmbachu/neetcode-submissions.git)
 
+ ### [MiniRAG AI — Local AI-Powered Document Assistant](https://github.com/kingmbachu/minirag-ai.git)] | Python, LangChain, LangGraph, ChromaDB, Ollama, Streamlit
+
+A locally hosted Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents, ask natural-language questions, and receive context-aware answers with source citations, without relying on paid external LLM APIs.
+
+- Developed an end-to-end RAG pipeline using LangChain, HuggingFace embeddings, and ChromaDB for document chunking, vector storage, and semantic similarity search.
+- Integrated Ollama (Llama 3.2) for local LLM inference and LangGraph to orchestrate document retrieval and answer generation through an interactive Streamlit interface.
+- Implemented retrieval and generation guardrails, including similarity-distance thresholds and context-grounded responses, to reduce hallucinations and improve answer reliability.
+- Built an evaluation workflow to test retrieval relevance, answer quality, and edge cases, exploring trade-offs between accuracy, latency, computational cost, and scalability.
+
 ### [KerbStop — AI-Powered EV Charging Marketplace](https://github.com/KerbStop/KerbStop.git) | JavaScript, REST APIs, Stripe, Google Maps API, OpenRouter
 A full-stack EV charging marketplace built during HackUCD, connecting EV drivers with homeowners and businesses offering unused charging points to make EV charging more accessible, affordable and sustainable.
 
