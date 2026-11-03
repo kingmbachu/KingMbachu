@@ -43,7 +43,7 @@ I'm a Computer Science student at **University College Dublin** (Class of 2028),
 - **Data Structures and Algorithms Practice**
   - [Practicing Data Structures and Algorithms](https://github.com/kingmbachu/neetcode-submissions.git)
 
- ### [MiniRAG AI — Local AI-Powered Document Assistant(https://github.com/kingmbachu/minirag-ai.git)] | Python, LangChain, LangGraph, ChromaDB, Ollama, Streamlit
+ ### [MiniRAG AI — Local AI-Powered Document Assistant](https://github.com/kingmbachu/minirag-ai.git) | Python, LangChain, LangGraph, ChromaDB, Ollama, Streamlit
 
 A locally hosted Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents, ask natural-language questions, and receive context-aware answers with source citations, without relying on paid external LLM APIs.
 
